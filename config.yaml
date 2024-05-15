@@ -1,0 +1,3 @@
+apiPackage: org.wiremock.admin.api
+artifactId: wiremock-admin-client-java
+modelPackage: org.wiremock.admin.model
